@@ -29,16 +29,6 @@ I specialize in creating production-grade AI systems - multi-agent orchestration
 
 ## Few of my projects
 
-### [KisanSetu](https://github.com/kohanasingh/KisanSetu) — Agentic Multimodal AI for Farmer Advisory
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square)
-![GPT--4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-Smart India Hackathon Winner. Multi-agent orchestration (GPT-4o + Whisper + Gemini) powering a real-time voice assistant across WhatsApp and web for FPOs and farmers. Built a 4-step farmer identity resolution system and an ingestion pipeline combining Excel/CSV parsing with GPT-4o Vision for scanned paper registers, plus automated weather-risk alerts via Open-Meteo.
-
----
 
 ### [LegalEase](https://github.com/kohanasingh/LegalEase) — Multi-Agent Legal Document Intelligence
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,6 +41,19 @@ Smart India Hackathon Winner. Multi-agent orchestration (GPT-4o + Whisper + Gemi
 International Hackathon Winner. Production-grade multi-agent LLM system (Gemini + CrewAI) with an agentic RAG pipeline over a self-hosted Chroma vector DB using hybrid dense + BM25 retrieval, to flag risky clauses and generate plain-language summaries. FastAPI + Docker backend on Render, Next.js frontend on Vercel, WhatsApp via Twilio Sandbox — supporting 100+ document analyses/day.
 
 ---
+
+### [KisanSetu](https://github.com/kohanasingh/KisanSetu) — Agentic Multimodal AI for Farmer Advisory
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square)
+![GPT--4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+Smart India Hackathon Winner. Multi-agent orchestration (GPT-4o + Whisper + Gemini) powering a real-time voice assistant across WhatsApp and web for FPOs and farmers. Built a 4-step farmer identity resolution system and an ingestion pipeline combining Excel/CSV parsing with GPT-4o Vision for scanned paper registers, plus automated weather-risk alerts via Open-Meteo.
+
+
+---
+
 
 ### [SeatSure](https://github.com/kohanasingh/SeatSure) — High-Concurrency Event Ticketing System
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
